@@ -1,4 +1,4 @@
-import profile from '../notion-data/13801b37-0b22-8039-bcb9-ea1730ae17b6.json';
+import profile from '../notion-data/20a01b37-0b22-8005-8c8c-e83eda84525c.json';
 
 const posts = [
     {
