@@ -1,0 +1,3472 @@
+{
+  "object": "page",
+  "id": "13801b37-0b22-8039-bcb9-ea1730ae17b6",
+  "created_time": "2024-11-08T07:18:00.000Z",
+  "last_edited_time": "2025-06-06T05:25:00.000Z",
+  "created_by": {
+    "object": "user",
+    "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+  },
+  "last_edited_by": {
+    "object": "user",
+    "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+  },
+  "cover": null,
+  "icon": null,
+  "parent": {
+    "type": "page_id",
+    "page_id": "adba66aa-4c58-4ec8-9739-b2e923787f72"
+  },
+  "archived": false,
+  "in_trash": false,
+  "properties": {
+    "title": {
+      "id": "title",
+      "type": "title",
+      "title": [
+        {
+          "type": "text",
+          "text": {
+            "content": "황종수 프로필",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "황종수 프로필",
+          "href": null
+        }
+      ]
+    }
+  },
+  "url": "https://www.notion.so/13801b370b228039bcb9ea1730ae17b6",
+  "public_url": null,
+  "request_id": "ca5fe6de-b2d4-4d65-9642-4f37334ea12d",
+  "blocks": [
+    {
+      "object": "block",
+      "id": "13801b37-0b22-8163-be15-ea71428ca07b",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13801b37-0b22-8039-bcb9-ea1730ae17b6"
+      },
+      "created_time": "2024-11-08T07:18:00.000Z",
+      "last_edited_time": "2024-11-08T07:18:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13801b37-0b22-81d5-88ef-c52733c5bff2",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13801b37-0b22-8039-bcb9-ea1730ae17b6"
+      },
+      "created_time": "2024-11-08T07:18:00.000Z",
+      "last_edited_time": "2024-11-08T07:18:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "image",
+      "image": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/notion-data/13801b37-0b22-8039-bcb9-ea1730ae17b6/image_1.jpg",
+          "expiry_time": "2025-06-06T06:28:10.616Z"
+        }
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13801b37-0b22-81f1-a1fa-d5873b90c46d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13801b37-0b22-8039-bcb9-ea1730ae17b6"
+      },
+      "created_time": "2024-11-08T07:18:00.000Z",
+      "last_edited_time": "2024-11-08T07:18:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_2",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "개인정보",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "개인정보",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13801b37-0b22-813e-a2e7-d0777603b035",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13801b37-0b22-8039-bcb9-ea1730ae17b6"
+      },
+      "created_time": "2024-11-08T07:18:00.000Z",
+      "last_edited_time": "2024-11-08T07:47:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+      },
+      "has_children": true,
+      "archived": false,
+      "in_trash": false,
+      "type": "table",
+      "table": {
+        "table_width": 2,
+        "has_column_header": false,
+        "has_row_header": true
+      },
+      "blocks": [
+        {
+          "object": "block",
+          "id": "13801b37-0b22-8136-886a-e6673fb1eabf",
+          "parent": {
+            "type": "block_id",
+            "block_id": "13801b37-0b22-813e-a2e7-d0777603b035"
+          },
+          "created_time": "2024-11-08T07:18:00.000Z",
+          "last_edited_time": "2024-11-08T07:47:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "table_row",
+          "table_row": {
+            "cells": [
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "생년월일",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "생년월일",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "1997.10.02",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "1997.10.02",
+                  "href": null
+                }
+              ]
+            ]
+          },
+          "blocks": []
+        },
+        {
+          "object": "block",
+          "id": "13801b37-0b22-8101-95ec-d5d4376a38e0",
+          "parent": {
+            "type": "block_id",
+            "block_id": "13801b37-0b22-813e-a2e7-d0777603b035"
+          },
+          "created_time": "2024-11-08T07:18:00.000Z",
+          "last_edited_time": "2024-11-08T07:31:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "table_row",
+          "table_row": {
+            "cells": [
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "주소",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "주소",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "서울특별시 창경궁로 321, 702호",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "서울특별시 창경궁로 321, 702호",
+                  "href": null
+                }
+              ]
+            ]
+          },
+          "blocks": []
+        },
+        {
+          "object": "block",
+          "id": "13801b37-0b22-811d-ab27-f1477948358c",
+          "parent": {
+            "type": "block_id",
+            "block_id": "13801b37-0b22-813e-a2e7-d0777603b035"
+          },
+          "created_time": "2024-11-08T07:18:00.000Z",
+          "last_edited_time": "2024-11-08T07:18:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "table_row",
+          "table_row": {
+            "cells": [
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "이메일",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "이메일",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "hjs10002@naver.com",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "hjs10002@naver.com",
+                  "href": null
+                }
+              ]
+            ]
+          },
+          "blocks": []
+        },
+        {
+          "object": "block",
+          "id": "13801b37-0b22-8160-ad39-e921c7c6fbc2",
+          "parent": {
+            "type": "block_id",
+            "block_id": "13801b37-0b22-813e-a2e7-d0777603b035"
+          },
+          "created_time": "2024-11-08T07:18:00.000Z",
+          "last_edited_time": "2024-11-08T07:18:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "table_row",
+          "table_row": {
+            "cells": [
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "전화번호",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "전화번호",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "010-4242-2174",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "010-4242-2174",
+                  "href": null
+                }
+              ]
+            ]
+          },
+          "blocks": []
+        },
+        {
+          "object": "block",
+          "id": "13801b37-0b22-8165-b144-c78f41eff7db",
+          "parent": {
+            "type": "block_id",
+            "block_id": "13801b37-0b22-813e-a2e7-d0777603b035"
+          },
+          "created_time": "2024-11-08T07:18:00.000Z",
+          "last_edited_time": "2024-11-08T07:32:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "table_row",
+          "table_row": {
+            "cells": [
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "github",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "github",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "https://github.com/jjongsu",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "https://github.com/jjongsu",
+                  "href": null
+                }
+              ]
+            ]
+          },
+          "blocks": []
+        },
+        {
+          "object": "block",
+          "id": "13801b37-0b22-816d-a569-c01c1b275122",
+          "parent": {
+            "type": "block_id",
+            "block_id": "13801b37-0b22-813e-a2e7-d0777603b035"
+          },
+          "created_time": "2024-11-08T07:18:00.000Z",
+          "last_edited_time": "2024-11-08T07:19:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "table_row",
+          "table_row": {
+            "cells": [
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "notion (업무 공유 방식 예시)",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "notion (업무 공유 방식 예시)",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "https://jjongsu.notion.site/7c73fe4922444d7987aa02f33ce4999d?pvs=4",
+                    "link": {
+                      "url": "https://jjongsu.notion.site/7c73fe4922444d7987aa02f33ce4999d"
+                    }
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "https://jjongsu.notion.site/7c73fe4922444d7987aa02f33ce4999d?pvs=4",
+                  "href": "https://jjongsu.notion.site/7c73fe4922444d7987aa02f33ce4999d"
+                }
+              ]
+            ]
+          },
+          "blocks": []
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "13801b37-0b22-8118-9ff0-f6c77975d310",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13801b37-0b22-8039-bcb9-ea1730ae17b6"
+      },
+      "created_time": "2024-11-08T07:18:00.000Z",
+      "last_edited_time": "2024-11-08T07:18:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13801b37-0b22-81d4-8f97-ddd6b42e0c62",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13801b37-0b22-8039-bcb9-ea1730ae17b6"
+      },
+      "created_time": "2024-11-08T07:18:00.000Z",
+      "last_edited_time": "2024-11-08T07:21:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_2",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "학력",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "학력",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13801b37-0b22-80bb-95d1-f62a3ec610ec",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13801b37-0b22-8039-bcb9-ea1730ae17b6"
+      },
+      "created_time": "2024-11-08T07:21:00.000Z",
+      "last_edited_time": "2024-11-08T07:22:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+      },
+      "has_children": true,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "논산대건고등학교 졸업",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "논산대건고등학교 졸업",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": [
+        {
+          "object": "block",
+          "id": "13801b37-0b22-80b7-b29d-deef2a8746ec",
+          "parent": {
+            "type": "block_id",
+            "block_id": "13801b37-0b22-80bb-95d1-f62a3ec610ec"
+          },
+          "created_time": "2024-11-08T07:22:00.000Z",
+          "last_edited_time": "2024-11-08T07:26:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "기간 : 2013.03 ~ 2016.02",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "기간 : 2013.03 ~ 2016.02",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": []
+        },
+        {
+          "object": "block",
+          "id": "13801b37-0b22-8009-9289-cd3adfb36901",
+          "parent": {
+            "type": "block_id",
+            "block_id": "13801b37-0b22-80bb-95d1-f62a3ec610ec"
+          },
+          "created_time": "2024-11-08T07:22:00.000Z",
+          "last_edited_time": "2024-11-08T07:26:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "계열 : 이과",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "계열 : 이과",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": []
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "13801b37-0b22-8092-a349-c840bafa50f7",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13801b37-0b22-8039-bcb9-ea1730ae17b6"
+      },
+      "created_time": "2024-11-08T07:22:00.000Z",
+      "last_edited_time": "2024-11-08T07:23:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+      },
+      "has_children": true,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "충남대학교 졸업",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "충남대학교 졸업",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": [
+        {
+          "object": "block",
+          "id": "13801b37-0b22-802c-bd64-f44dd74dcf1c",
+          "parent": {
+            "type": "block_id",
+            "block_id": "13801b37-0b22-8092-a349-c840bafa50f7"
+          },
+          "created_time": "2024-11-08T07:22:00.000Z",
+          "last_edited_time": "2024-11-08T07:26:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "기간 : 2016.03 ~ 2022.02",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "기간 : 2016.03 ~ 2022.02",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": []
+        },
+        {
+          "object": "block",
+          "id": "13801b37-0b22-8015-820e-c77257de0166",
+          "parent": {
+            "type": "block_id",
+            "block_id": "13801b37-0b22-8092-a349-c840bafa50f7"
+          },
+          "created_time": "2024-11-08T07:23:00.000Z",
+          "last_edited_time": "2024-11-08T07:23:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "주전공 : 수학과, 복수전공 : 응용화학공학과",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "주전공 : 수학과, 복수전공 : 응용화학공학과",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": []
+        },
+        {
+          "object": "block",
+          "id": "13801b37-0b22-8002-b1be-d223d7fa5e72",
+          "parent": {
+            "type": "block_id",
+            "block_id": "13801b37-0b22-8092-a349-c840bafa50f7"
+          },
+          "created_time": "2024-11-08T07:23:00.000Z",
+          "last_edited_time": "2024-11-08T07:23:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "학점 : 3.45/4.5",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "학점 : 3.45/4.5",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": []
+        },
+        {
+          "object": "block",
+          "id": "13801b37-0b22-8038-83b7-e9fc79d0392d",
+          "parent": {
+            "type": "block_id",
+            "block_id": "13801b37-0b22-8092-a349-c840bafa50f7"
+          },
+          "created_time": "2024-11-08T07:23:00.000Z",
+          "last_edited_time": "2024-11-08T07:23:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "paragraph",
+          "paragraph": {
+            "rich_text": [],
+            "color": "default"
+          },
+          "blocks": []
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "13801b37-0b22-80b6-97b1-d0d7d6f1efa7",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13801b37-0b22-8039-bcb9-ea1730ae17b6"
+      },
+      "created_time": "2024-11-08T07:23:00.000Z",
+      "last_edited_time": "2024-11-08T07:23:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_2",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "경력",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "경력",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13801b37-0b22-80d7-a66b-e19ffe15806f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13801b37-0b22-8039-bcb9-ea1730ae17b6"
+      },
+      "created_time": "2024-11-08T07:23:00.000Z",
+      "last_edited_time": "2024-12-01T05:25:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+      },
+      "has_children": true,
+      "archived": false,
+      "in_trash": false,
+      "type": "numbered_list_item",
+      "numbered_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "재능교육 (정규직)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "재능교육 (정규직)",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": [
+        {
+          "object": "block",
+          "id": "13801b37-0b22-8008-8b57-c555f3d6aeaa",
+          "parent": {
+            "type": "block_id",
+            "block_id": "13801b37-0b22-80d7-a66b-e19ffe15806f"
+          },
+          "created_time": "2024-11-08T07:25:00.000Z",
+          "last_edited_time": "2024-11-08T07:26:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "numbered_list_item",
+          "numbered_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "기간 : 2022.01 ~ 2024.08",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "기간 : 2022.01 ~ 2024.08",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": []
+        },
+        {
+          "object": "block",
+          "id": "13801b37-0b22-80ea-92ff-ccca88cce774",
+          "parent": {
+            "type": "block_id",
+            "block_id": "13801b37-0b22-80d7-a66b-e19ffe15806f"
+          },
+          "created_time": "2024-11-08T07:24:00.000Z",
+          "last_edited_time": "2024-11-08T07:25:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "numbered_list_item",
+          "numbered_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "소속 : 에듀테크 연구소 교육시스템팀",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "소속 : 에듀테크 연구소 교육시스템팀",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": []
+        },
+        {
+          "object": "block",
+          "id": "13801b37-0b22-805b-b029-c689e8d320d9",
+          "parent": {
+            "type": "block_id",
+            "block_id": "13801b37-0b22-80d7-a66b-e19ffe15806f"
+          },
+          "created_time": "2024-11-08T07:24:00.000Z",
+          "last_edited_time": "2024-11-08T07:25:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "numbered_list_item",
+          "numbered_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "직무 : 프론트엔드 개발",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "직무 : 프론트엔드 개발",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": []
+        },
+        {
+          "object": "block",
+          "id": "13801b37-0b22-805b-bbb1-cac0930ef3ed",
+          "parent": {
+            "type": "block_id",
+            "block_id": "13801b37-0b22-80d7-a66b-e19ffe15806f"
+          },
+          "created_time": "2024-11-08T07:24:00.000Z",
+          "last_edited_time": "2024-11-08T07:25:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "numbered_list_item",
+          "numbered_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "직책 : 주임연구원",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "직책 : 주임연구원",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": []
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "13801b37-0b22-80f3-89b7-d7c6092f58a6",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13801b37-0b22-8039-bcb9-ea1730ae17b6"
+      },
+      "created_time": "2024-11-08T07:25:00.000Z",
+      "last_edited_time": "2024-12-01T05:25:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+      },
+      "has_children": true,
+      "archived": false,
+      "in_trash": false,
+      "type": "numbered_list_item",
+      "numbered_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "한솔모두의봄 (정규직)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "한솔모두의봄 (정규직)",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": [
+        {
+          "object": "block",
+          "id": "13801b37-0b22-80a5-8fd1-fca89098ceed",
+          "parent": {
+            "type": "block_id",
+            "block_id": "13801b37-0b22-80f3-89b7-d7c6092f58a6"
+          },
+          "created_time": "2024-11-08T07:26:00.000Z",
+          "last_edited_time": "2024-12-01T05:24:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "numbered_list_item",
+          "numbered_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "기간 : 2024.08 ~ 2024.11",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "기간 : 2024.08 ~ 2024.11",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": []
+        },
+        {
+          "object": "block",
+          "id": "13801b37-0b22-806c-b42e-e90a7502fa7b",
+          "parent": {
+            "type": "block_id",
+            "block_id": "13801b37-0b22-80f3-89b7-d7c6092f58a6"
+          },
+          "created_time": "2024-11-08T07:25:00.000Z",
+          "last_edited_time": "2024-11-08T07:26:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "numbered_list_item",
+          "numbered_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "소속 : IT개발팀",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "소속 : IT개발팀",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": []
+        },
+        {
+          "object": "block",
+          "id": "13801b37-0b22-80d9-97f8-d54b01e9b513",
+          "parent": {
+            "type": "block_id",
+            "block_id": "13801b37-0b22-80f3-89b7-d7c6092f58a6"
+          },
+          "created_time": "2024-11-08T07:25:00.000Z",
+          "last_edited_time": "2024-11-08T07:26:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "numbered_list_item",
+          "numbered_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "직무 : 프론트엔드 개발",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "직무 : 프론트엔드 개발",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": []
+        },
+        {
+          "object": "block",
+          "id": "13801b37-0b22-8083-845c-d13627daf214",
+          "parent": {
+            "type": "block_id",
+            "block_id": "13801b37-0b22-80f3-89b7-d7c6092f58a6"
+          },
+          "created_time": "2024-11-08T07:25:00.000Z",
+          "last_edited_time": "2024-11-08T07:46:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "numbered_list_item",
+          "numbered_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "직책 : 매니저",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "직책 : 매니저",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": []
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "14f01b37-0b22-80c7-9750-ccb14e2b1771",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13801b37-0b22-8039-bcb9-ea1730ae17b6"
+      },
+      "created_time": "2024-12-01T05:25:00.000Z",
+      "last_edited_time": "2025-06-06T05:23:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+      },
+      "has_children": true,
+      "archived": false,
+      "in_trash": false,
+      "type": "numbered_list_item",
+      "numbered_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "이스타항공 (프리랜서)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "이스타항공 (프리랜서)",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": [
+        {
+          "object": "block",
+          "id": "14f01b37-0b22-80df-a285-da6890399414",
+          "parent": {
+            "type": "block_id",
+            "block_id": "14f01b37-0b22-80c7-9750-ccb14e2b1771"
+          },
+          "created_time": "2024-12-01T05:25:00.000Z",
+          "last_edited_time": "2025-06-06T05:23:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "numbered_list_item",
+          "numbered_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "기간 : 2024.12 ~ 2025.04",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "기간 : 2024.12 ~ 2025.04",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": []
+        },
+        {
+          "object": "block",
+          "id": "14f01b37-0b22-809b-bbec-d4abae860446",
+          "parent": {
+            "type": "block_id",
+            "block_id": "14f01b37-0b22-80c7-9750-ccb14e2b1771"
+          },
+          "created_time": "2024-12-01T05:25:00.000Z",
+          "last_edited_time": "2024-12-01T05:25:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "numbered_list_item",
+          "numbered_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "소속 : IT 개발",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "소속 : IT 개발",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": []
+        },
+        {
+          "object": "block",
+          "id": "14f01b37-0b22-8021-8b79-c923ecaae815",
+          "parent": {
+            "type": "block_id",
+            "block_id": "14f01b37-0b22-80c7-9750-ccb14e2b1771"
+          },
+          "created_time": "2024-12-01T05:25:00.000Z",
+          "last_edited_time": "2024-12-01T05:25:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "numbered_list_item",
+          "numbered_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "직무 : 프론트엔드 개발",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "직무 : 프론트엔드 개발",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": []
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "20a01b37-0b22-80c5-a2ce-e4bc9f547999",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13801b37-0b22-8039-bcb9-ea1730ae17b6"
+      },
+      "created_time": "2025-06-06T05:23:00.000Z",
+      "last_edited_time": "2025-06-06T05:24:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+      },
+      "has_children": true,
+      "archived": false,
+      "in_trash": false,
+      "type": "numbered_list_item",
+      "numbered_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "더존비즈온 (정규직)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "더존비즈온 (정규직)",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": [
+        {
+          "object": "block",
+          "id": "20a01b37-0b22-80bf-a9e5-db8aa64f971b",
+          "parent": {
+            "type": "block_id",
+            "block_id": "20a01b37-0b22-80c5-a2ce-e4bc9f547999"
+          },
+          "created_time": "2025-06-06T05:23:00.000Z",
+          "last_edited_time": "2025-06-06T05:23:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "numbered_list_item",
+          "numbered_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "기간 : 2025.04 ~",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "기간 : 2025.04 ~",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": []
+        },
+        {
+          "object": "block",
+          "id": "20a01b37-0b22-8080-baff-f8103d457615",
+          "parent": {
+            "type": "block_id",
+            "block_id": "20a01b37-0b22-80c5-a2ce-e4bc9f547999"
+          },
+          "created_time": "2025-06-06T05:23:00.000Z",
+          "last_edited_time": "2025-06-06T05:24:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "numbered_list_item",
+          "numbered_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "소속 : ICT 플랫폼부문 데이터시각화코어팀",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "소속 : ICT 플랫폼부문 데이터시각화코어팀",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": []
+        },
+        {
+          "object": "block",
+          "id": "20a01b37-0b22-8077-8813-e516000dcef0",
+          "parent": {
+            "type": "block_id",
+            "block_id": "20a01b37-0b22-80c5-a2ce-e4bc9f547999"
+          },
+          "created_time": "2025-06-06T05:24:00.000Z",
+          "last_edited_time": "2025-06-06T05:24:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "numbered_list_item",
+          "numbered_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "직무 : 프론트엔드 개발",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "직무 : 프론트엔드 개발",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": []
+        },
+        {
+          "object": "block",
+          "id": "20a01b37-0b22-804d-8c34-fdde97ef9bf1",
+          "parent": {
+            "type": "block_id",
+            "block_id": "20a01b37-0b22-80c5-a2ce-e4bc9f547999"
+          },
+          "created_time": "2025-06-06T05:24:00.000Z",
+          "last_edited_time": "2025-06-06T05:24:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "numbered_list_item",
+          "numbered_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "직책 : 연구원",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "직책 : 연구원",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": []
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "13801b37-0b22-807a-9997-d1649c76c244",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13801b37-0b22-8039-bcb9-ea1730ae17b6"
+      },
+      "created_time": "2024-11-08T07:49:00.000Z",
+      "last_edited_time": "2024-11-08T07:49:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13801b37-0b22-80b1-a39c-dcb1f714ac4a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13801b37-0b22-8039-bcb9-ea1730ae17b6"
+      },
+      "created_time": "2024-11-08T07:34:00.000Z",
+      "last_edited_time": "2024-11-08T07:45:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_2",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "기술 스택",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "기술 스택",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13801b37-0b22-80d3-8fb0-f5baf35a67a3",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13801b37-0b22-8039-bcb9-ea1730ae17b6"
+      },
+      "created_time": "2024-11-08T07:47:00.000Z",
+      "last_edited_time": "2024-11-08T07:50:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+      },
+      "has_children": true,
+      "archived": false,
+      "in_trash": false,
+      "type": "table",
+      "table": {
+        "table_width": 2,
+        "has_column_header": false,
+        "has_row_header": true
+      },
+      "blocks": [
+        {
+          "object": "block",
+          "id": "0f4e9078-318d-4e96-b08c-e1809ae103b0",
+          "parent": {
+            "type": "block_id",
+            "block_id": "13801b37-0b22-80d3-8fb0-f5baf35a67a3"
+          },
+          "created_time": "2024-11-08T07:47:00.000Z",
+          "last_edited_time": "2024-11-08T07:47:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "table_row",
+          "table_row": {
+            "cells": [
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "언어",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "언어",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "html, css, javascript, typescript",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "html, css, javascript, typescript",
+                  "href": null
+                }
+              ]
+            ]
+          },
+          "blocks": []
+        },
+        {
+          "object": "block",
+          "id": "19b18cdf-10ab-4320-8ba1-104aa3f5814f",
+          "parent": {
+            "type": "block_id",
+            "block_id": "13801b37-0b22-80d3-8fb0-f5baf35a67a3"
+          },
+          "created_time": "2024-11-08T07:47:00.000Z",
+          "last_edited_time": "2024-11-08T07:47:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "table_row",
+          "table_row": {
+            "cells": [
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "framework",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "framework",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "react, nextjs",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "react, nextjs",
+                  "href": null
+                }
+              ]
+            ]
+          },
+          "blocks": []
+        },
+        {
+          "object": "block",
+          "id": "92012593-b04c-45ba-96a0-abceba80ffe8",
+          "parent": {
+            "type": "block_id",
+            "block_id": "13801b37-0b22-80d3-8fb0-f5baf35a67a3"
+          },
+          "created_time": "2024-11-08T07:47:00.000Z",
+          "last_edited_time": "2024-11-08T07:47:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "table_row",
+          "table_row": {
+            "cells": [
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "빌드 도구",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "빌드 도구",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "webpack, vite",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "webpack, vite",
+                  "href": null
+                }
+              ]
+            ]
+          },
+          "blocks": []
+        },
+        {
+          "object": "block",
+          "id": "886f72df-e279-4645-86c7-d1e178f9869d",
+          "parent": {
+            "type": "block_id",
+            "block_id": "13801b37-0b22-80d3-8fb0-f5baf35a67a3"
+          },
+          "created_time": "2024-11-08T07:47:00.000Z",
+          "last_edited_time": "2024-11-08T07:49:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "table_row",
+          "table_row": {
+            "cells": [
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "상태관리",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "상태관리",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "react-redux, jotai, zustand",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "react-redux, jotai, zustand",
+                  "href": null
+                }
+              ]
+            ]
+          },
+          "blocks": []
+        },
+        {
+          "object": "block",
+          "id": "a4cbaf1c-a53f-479c-b14d-eca9f11fa8e4",
+          "parent": {
+            "type": "block_id",
+            "block_id": "13801b37-0b22-80d3-8fb0-f5baf35a67a3"
+          },
+          "created_time": "2024-11-08T07:47:00.000Z",
+          "last_edited_time": "2024-11-08T07:49:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "table_row",
+          "table_row": {
+            "cells": [
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "api 통신",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "api 통신",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "react query, axios",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "react query, axios",
+                  "href": null
+                }
+              ]
+            ]
+          },
+          "blocks": []
+        },
+        {
+          "object": "block",
+          "id": "5b8240cf-29aa-4f2b-b046-efadfc7f3381",
+          "parent": {
+            "type": "block_id",
+            "block_id": "13801b37-0b22-80d3-8fb0-f5baf35a67a3"
+          },
+          "created_time": "2024-11-08T07:47:00.000Z",
+          "last_edited_time": "2024-11-08T07:48:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "table_row",
+          "table_row": {
+            "cells": [
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "형상관리",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "형상관리",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "git, gitlab, github, bitbucket",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "git, gitlab, github, bitbucket",
+                  "href": null
+                }
+              ]
+            ]
+          },
+          "blocks": []
+        },
+        {
+          "object": "block",
+          "id": "13801b37-0b22-800f-bda4-c0bfba6c2a43",
+          "parent": {
+            "type": "block_id",
+            "block_id": "13801b37-0b22-80d3-8fb0-f5baf35a67a3"
+          },
+          "created_time": "2024-11-08T07:48:00.000Z",
+          "last_edited_time": "2024-12-22T12:27:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "table_row",
+          "table_row": {
+            "cells": [
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "css framework",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "css framework",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "material-UI, tailwindCSS, shadcn/ui, v0, storybook",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "material-UI, tailwindCSS, shadcn/ui, v0, storybook",
+                  "href": null
+                }
+              ]
+            ]
+          },
+          "blocks": []
+        },
+        {
+          "object": "block",
+          "id": "13801b37-0b22-80c7-ab7c-d6cc3a30afe4",
+          "parent": {
+            "type": "block_id",
+            "block_id": "13801b37-0b22-80d3-8fb0-f5baf35a67a3"
+          },
+          "created_time": "2024-11-08T07:50:00.000Z",
+          "last_edited_time": "2024-11-08T07:50:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "table_row",
+          "table_row": {
+            "cells": [
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "testing",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "testing",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "vitest",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "vitest",
+                  "href": null
+                }
+              ]
+            ]
+          },
+          "blocks": []
+        },
+        {
+          "object": "block",
+          "id": "13801b37-0b22-80c1-969e-fecb907d0c2e",
+          "parent": {
+            "type": "block_id",
+            "block_id": "13801b37-0b22-80d3-8fb0-f5baf35a67a3"
+          },
+          "created_time": "2024-11-08T07:48:00.000Z",
+          "last_edited_time": "2024-11-08T07:48:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "table_row",
+          "table_row": {
+            "cells": [
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "linter, formatter",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "linter, formatter",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Prettier, ESLint",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Prettier, ESLint",
+                  "href": null
+                }
+              ]
+            ]
+          },
+          "blocks": []
+        },
+        {
+          "object": "block",
+          "id": "13801b37-0b22-8004-92fb-fb977d17115f",
+          "parent": {
+            "type": "block_id",
+            "block_id": "13801b37-0b22-80d3-8fb0-f5baf35a67a3"
+          },
+          "created_time": "2024-11-08T07:48:00.000Z",
+          "last_edited_time": "2025-06-06T05:24:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "table_row",
+          "table_row": {
+            "cells": [
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "editor",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "editor",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "CKEditor5, Quill editor, ProseMirror, Tiptap",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "CKEditor5, Quill editor, ProseMirror, Tiptap",
+                  "href": null
+                }
+              ]
+            ]
+          },
+          "blocks": []
+        },
+        {
+          "object": "block",
+          "id": "13801b37-0b22-80b6-89f6-c608571892a5",
+          "parent": {
+            "type": "block_id",
+            "block_id": "13801b37-0b22-80d3-8fb0-f5baf35a67a3"
+          },
+          "created_time": "2024-11-08T07:49:00.000Z",
+          "last_edited_time": "2024-11-08T07:49:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "table_row",
+          "table_row": {
+            "cells": [
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "api mock data ",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "api mock data ",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "msw",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "msw",
+                  "href": null
+                }
+              ]
+            ]
+          },
+          "blocks": []
+        },
+        {
+          "object": "block",
+          "id": "13801b37-0b22-80f6-8833-d6938dbd20e2",
+          "parent": {
+            "type": "block_id",
+            "block_id": "13801b37-0b22-80d3-8fb0-f5baf35a67a3"
+          },
+          "created_time": "2024-11-08T07:49:00.000Z",
+          "last_edited_time": "2024-11-08T07:49:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "table_row",
+          "table_row": {
+            "cells": [
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "utility",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "utility",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "react-router, phaser3, blockly, pixiJS, fabricJS, chart.js, xlsx, react-hook-form, …etc",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "react-router, phaser3, blockly, pixiJS, fabricJS, chart.js, xlsx, react-hook-form, …etc",
+                  "href": null
+                }
+              ]
+            ]
+          },
+          "blocks": []
+        },
+        {
+          "object": "block",
+          "id": "13801b37-0b22-80c6-90b0-ca8844cf0653",
+          "parent": {
+            "type": "block_id",
+            "block_id": "13801b37-0b22-80d3-8fb0-f5baf35a67a3"
+          },
+          "created_time": "2024-11-08T07:49:00.000Z",
+          "last_edited_time": "2024-11-08T07:49:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "table_row",
+          "table_row": {
+            "cells": [
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "협업툴",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "협업툴",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "notion, google workspace, jira, confluence",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "notion, google workspace, jira, confluence",
+                  "href": null
+                }
+              ]
+            ]
+          },
+          "blocks": []
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "13801b37-0b22-8031-95d2-f856bcbb1a20",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13801b37-0b22-8039-bcb9-ea1730ae17b6"
+      },
+      "created_time": "2024-11-08T07:45:00.000Z",
+      "last_edited_time": "2024-11-08T07:45:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13801b37-0b22-8023-a566-f2753e9836d7",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13801b37-0b22-8039-bcb9-ea1730ae17b6"
+      },
+      "created_time": "2024-11-08T07:25:00.000Z",
+      "last_edited_time": "2024-11-08T07:45:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_2",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "교육 및 자격증",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "교육 및 자격증",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13801b37-0b22-8081-9ef8-fb35b3abe93f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13801b37-0b22-8039-bcb9-ea1730ae17b6"
+      },
+      "created_time": "2024-11-08T07:27:00.000Z",
+      "last_edited_time": "2024-11-08T07:45:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+      },
+      "has_children": true,
+      "archived": false,
+      "in_trash": false,
+      "type": "numbered_list_item",
+      "numbered_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "충남대학교 AI부트캠프",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "충남대학교 AI부트캠프",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": [
+        {
+          "object": "block",
+          "id": "13801b37-0b22-8075-80c3-e1081cce4811",
+          "parent": {
+            "type": "block_id",
+            "block_id": "13801b37-0b22-8081-9ef8-fb35b3abe93f"
+          },
+          "created_time": "2024-11-08T07:27:00.000Z",
+          "last_edited_time": "2024-11-08T07:27:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "numbered_list_item",
+          "numbered_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "기간 : 2020.08 ~ 2020.09",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "기간 : 2020.08 ~ 2020.09",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": []
+        },
+        {
+          "object": "block",
+          "id": "13801b37-0b22-80d1-97be-de38e925b94d",
+          "parent": {
+            "type": "block_id",
+            "block_id": "13801b37-0b22-8081-9ef8-fb35b3abe93f"
+          },
+          "created_time": "2024-11-08T07:27:00.000Z",
+          "last_edited_time": "2024-11-08T07:27:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "numbered_list_item",
+          "numbered_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "내용 : 빅데이터 분석 기법 연수",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "내용 : 빅데이터 분석 기법 연수",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": []
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "13801b37-0b22-8001-9487-f3ae5500803f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13801b37-0b22-8039-bcb9-ea1730ae17b6"
+      },
+      "created_time": "2024-11-08T07:27:00.000Z",
+      "last_edited_time": "2024-11-08T07:45:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+      },
+      "has_children": true,
+      "archived": false,
+      "in_trash": false,
+      "type": "numbered_list_item",
+      "numbered_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "데이터분석 준전문가(ADsP)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "데이터분석 준전문가(ADsP)",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": [
+        {
+          "object": "block",
+          "id": "13801b37-0b22-80c8-9161-c26fe6d2aced",
+          "parent": {
+            "type": "block_id",
+            "block_id": "13801b37-0b22-8001-9487-f3ae5500803f"
+          },
+          "created_time": "2024-11-08T07:28:00.000Z",
+          "last_edited_time": "2024-11-08T07:28:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "numbered_list_item",
+          "numbered_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "일시 : 2021.09",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "일시 : 2021.09",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": []
+        },
+        {
+          "object": "block",
+          "id": "13801b37-0b22-8038-b601-d8dd4a49d870",
+          "parent": {
+            "type": "block_id",
+            "block_id": "13801b37-0b22-8001-9487-f3ae5500803f"
+          },
+          "created_time": "2024-11-08T07:28:00.000Z",
+          "last_edited_time": "2024-11-08T07:28:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "numbered_list_item",
+          "numbered_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "내용 : 데이터 분석 관련 자격증",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "내용 : 데이터 분석 관련 자격증",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": []
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "13801b37-0b22-80c6-8c4f-ff257f5fae75",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13801b37-0b22-8039-bcb9-ea1730ae17b6"
+      },
+      "created_time": "2024-11-08T07:28:00.000Z",
+      "last_edited_time": "2024-11-08T07:45:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+      },
+      "has_children": true,
+      "archived": false,
+      "in_trash": false,
+      "type": "numbered_list_item",
+      "numbered_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Flutter 교육",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Flutter 교육",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": [
+        {
+          "object": "block",
+          "id": "13801b37-0b22-800e-82fc-fcfc72b10b38",
+          "parent": {
+            "type": "block_id",
+            "block_id": "13801b37-0b22-80c6-8c4f-ff257f5fae75"
+          },
+          "created_time": "2024-11-08T07:28:00.000Z",
+          "last_edited_time": "2024-11-08T07:30:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "numbered_list_item",
+          "numbered_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "기간 : 2023.05",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "기간 : 2023.05",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": []
+        },
+        {
+          "object": "block",
+          "id": "13801b37-0b22-80d1-b200-e2a6491e54b8",
+          "parent": {
+            "type": "block_id",
+            "block_id": "13801b37-0b22-80c6-8c4f-ff257f5fae75"
+          },
+          "created_time": "2024-11-08T07:30:00.000Z",
+          "last_edited_time": "2024-11-08T07:30:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "numbered_list_item",
+          "numbered_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "내용 : 재직자 내일배움카드를 통한 flutter 강의수강",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "내용 : 재직자 내일배움카드를 통한 flutter 강의수강",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": []
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "13801b37-0b22-80a4-b11e-fae2ea562237",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13801b37-0b22-8039-bcb9-ea1730ae17b6"
+      },
+      "created_time": "2024-11-08T07:30:00.000Z",
+      "last_edited_time": "2024-11-08T07:45:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13801b37-0b22-80e5-8373-c4c4a5186d8e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13801b37-0b22-8039-bcb9-ea1730ae17b6"
+      },
+      "created_time": "2024-11-08T07:28:00.000Z",
+      "last_edited_time": "2024-11-08T07:45:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_2",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "병역사항",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "병역사항",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13801b37-0b22-8068-8270-c4e141e1060c",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13801b37-0b22-8039-bcb9-ea1730ae17b6"
+      },
+      "created_time": "2024-11-08T07:31:00.000Z",
+      "last_edited_time": "2024-11-08T07:45:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "[군필] 2017.05 ~ 2019.01 육군 병장 만기 제대",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "[군필] 2017.05 ~ 2019.01 육군 병장 만기 제대",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "13801b37-0b22-800f-a3e4-e1376fbd7e2f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "13801b37-0b22-8039-bcb9-ea1730ae17b6"
+      },
+      "created_time": "2024-11-08T07:45:00.000Z",
+      "last_edited_time": "2024-11-08T07:45:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "02a5ca75-f0e7-4e4c-9c33-ffbe96ae60ab"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    }
+  ]
+}
